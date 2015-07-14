@@ -1,7 +1,5 @@
-# blog
-This is a repository for the matrix blog posts
+# Matrix Site
+This is a repository for the matrix site.
 
-Compile them into a HTML, use pandoc:
-
-    pandoc -f markdown -t html *.md >> index.html
-
+Uses Jekyll, and is compiled with:
+    jekyll build
