@@ -1,5 +1,5 @@
 # Site settings
-title: _matrix
+title: matrix
 email: admin@matrix.ac
 description: > # this means to ignore newlines until "baseurl:"
   The matrix is a network of machines giving university students access to a Unix shell and services.
