@@ -1,0 +1,15 @@
+
+<div id="main-container">
+    <div id="header">
+        <div id="header-title"><a href="/">{{ site.title }}</a></div>
+
+        <div id="header-tabs">
+          {% for page in site.pages %}
+          {% if page.title %}
+          <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          {% endif %}
+        {% endfor %}
+        </div>
+    </div>
+
+

@@ -1,5 +1,9 @@
-# NGINX privacy logs and stats
-
+---
+layout: post
+title:  "NGINX privacy logs and stats"
+date:   2015-05-22 11:34:01
+categories: server
+---
 In the interest of our users and overall privacy concerns we decided to remove as much identifiable information from our system to insure that we do not store more data on our users than the bare minimum, we decided to streamline our logs.
 
 We turned to NGINX, below is a record of a sentential scanning the matrix.
