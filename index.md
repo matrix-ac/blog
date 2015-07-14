@@ -17,7 +17,7 @@ layout: page
 
 Register [here](join). To register you will need to have a university email address, an address ending in .ac.uk or something.
 
-You will also need to provide us with your public SSH key. This is to allow you access to our serverS securely.
+You will also need to provide us with your public SSH key. This is to allow you access to our server securely.
 
 - [joynet Generating SSH keys in windows](https://help.github.com/articles/generating-ssh-keys/)
 - [GitHub How to generate SSH Keys](https://help.github.com/articles/generating-ssh-keys/)
