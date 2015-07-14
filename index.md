@@ -3,7 +3,7 @@ layout: page
 ---
 ## Welcome to the matrix
 
-The matrix is a network of machines giving university students access to a Unix shell and services.
+{{ site.description }}
 
 ### Features
 - Unique registration system
