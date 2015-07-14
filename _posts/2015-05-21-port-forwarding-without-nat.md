@@ -14,20 +14,11 @@ Now this outputs any errors to the /var/log/xmpp-443 file, and binds to IPv4 178
 
 We can put this into a little init.d script so that it starts up at boot time and allows us to start and stop the tunnel.
 
-**[TODO: Include links to repo]**
+<script src="https://gist.github.com/PMaynard/1ef6a5ab6983d1027b4f.js"></script>
 
-And there you have it port forwarding with out iptables NAT. One day we will update our kernel. 
+And there you have it port forwarding without iptables NAT. One day we will update our kernel. 
 
+## Alternative Methods
 
-> Block quote
-
-Something ```Some inline pre``` text
-
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+- [authbind](https://en.wikipedia.org/wiki/Authbind)
+- [iptables](https://serverfault.com/questions/140622/how-can-i-port-forward-with-iptables)
