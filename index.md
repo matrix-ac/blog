@@ -36,26 +36,4 @@ Once your account is activated you will have access via ssh.
 
     ssh username@matrix.ac
 
-#### XMPP
-
-XMPP, also known as jabber is an instant messaging protocol. 
-
-- **Server** matrix.ac
-- **Port** 443, 5222 
-- SSL only
-
-There is an array for clients available for many platforms. Some of our favorites are:
-
-- Pidgin <https://pidgin.im> - GUI (With CLI option <https://developer.pidgin.im/wiki/Using%20Finch>)
-- Gajim <http://gajim.org> - GUI
-- mcabber <http://mcabber.com> - CLI
-- profanity <http://profanity.im> - CLI
-- conversations <http://conversations.im> - Android
-
-#### Web Hosting
-
-Matrix provides users with space for hosting HTML files.  
-Access your data at <http://matrix.ac/~username> 
-
-Anything located in ```~/public_html``` will be available to the world.
-
+    

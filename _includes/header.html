@@ -4,11 +4,13 @@
         <div id="header-title"><span class="blinking-cursor">_</span><a href="/">{{ site.title }}</a></div>
 
         <div id="header-tabs">
-          {% for page in site.pages %}
-          {% if page.title %}
-          <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          {% endif %}
-        {% endfor %}
+          {% for n in site.nav %}
+            {% if n.permalink == page.url %}
+              <a class="active" href="{{ n.permalink }}">{{ n.page }}</a>
+            {% else %}
+              <a href="{{ n.permalink }}">{{ n.page }}</a>
+            {% endif %}
+          {% endfor %}
         </div>
     </div>
 

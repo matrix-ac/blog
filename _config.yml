@@ -8,5 +8,17 @@ url: "http://matrix.ac" # the base hostname & protocol for your site
 twitter_username: matrix_ac
 github_username:  matrix-ac
 
+nav:
+- page: Join Us
+  permalink: /join
+
+- page: Zion Archive
+  permalink: /zion-archive
+
+- page: Blog
+  permalink: /blog
+
+zion-list: [Chat, Web Publishing, Command Line]
+
 # Build settings
 markdown: kramdown
