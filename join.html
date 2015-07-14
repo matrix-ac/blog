@@ -1,15 +1,21 @@
+---
+layout: page
+title: join
+permalink: /join/
+---
+
 <form method="POST" action="/registration/join">
   <div>
     <label for="username">Username:</label><br>
-    <input type="text" name="username"><br>
+    <input type="text" name="username" placeholder="Think of a username" autofocus required><br>
   </div>
   <div>
     <label for="email">Email:</label><br>
-    <input type="text" name="email" ><br>
+    <input type="email" name="email" placeholder="Valid university email" required><br>
   </div>
    <div>
     <label for="pubkey">SSH Public Key:</label><br>
-    <textarea cols="100" rows="30" name="pubkey"></textarea><br>
+    <textarea cols="100" rows="30" name="pubkey" placeholde="Paste your GPG public key in here." required></textarea><br>
   </div>
 
     <input type="submit" value="Submit">
