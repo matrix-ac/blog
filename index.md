@@ -20,8 +20,8 @@ Register [here](join). To register you will need to use your university email ad
 
 You will also need to provide us with your public SSH key in order to access the matrix.ac server securely.
 
-- [joynet Generating SSH keys in windows](https://help.github.com/articles/generating-ssh-keys/)
-- [GitHub How to generate SSH Keys](https://help.github.com/articles/generating-ssh-keys/)
+- [How to generate SSH keys under Windows](https://docs.joyent.com/public-cloud/getting-started/ssh-keys/generating-an-ssh-key-manually/manually-generating-your-ssh-key-in-windows)
+- [How to generate SSH Keys under Linux](https://help.github.com/articles/generating-ssh-keys/)
 
 You can also use curl to register your account. 
 
