@@ -16,9 +16,9 @@ XMPP, also known as jabber, is an instant messaging protocol.
 We have a multi user channel located at ```bios@conference@matrix.ac```.  
 Come and join the coversation.
 
-There is an array for clients available for many platforms. Some of our favorites are:
+There are an array of clients available for many platforms. Some of our favorites are:
 
-- Pidgin <https://pidgin.im> - GUI (With CLI option <https://developer.pidgin.im/wiki/Using%20Finch>)
+- Pidgin <https://pidgin.im> - GUI (with CLI option <https://developer.pidgin.im/wiki/Using%20Finch>)
 - Gajim <http://gajim.org> - GUI
 - mcabber <http://mcabber.com> - CLI
 - profanity <http://profanity.im> - CLI
