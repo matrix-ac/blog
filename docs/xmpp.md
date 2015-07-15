@@ -7,11 +7,14 @@ categories:
 - Chat
 ---
 
-XMPP, also known as jabber is an instant messaging protocol. 
+XMPP, also known as jabber, is an instant messaging protocol. 
 
 - **Server** matrix.ac
 - **Port** 443, 5222 
 - SSL only
+
+We have a multi user channel located at ```bios@conference@matrix.ac```.  
+Come and join the coversation.
 
 There is an array for clients available for many platforms. Some of our favorites are:
 

@@ -12,8 +12,8 @@ nav:
 - page: join us
   permalink: /join
 
-- page: zion archive
-  permalink: /zion-archive
+- page: docs
+  permalink: /docs
 
 - page: blog
   permalink: /blog

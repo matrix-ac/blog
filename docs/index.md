@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Zion Archive
-permalink: /zion-archive/
+title: Matrix Documentation
+permalink: /docs/
 ---
 
-The Zion Archive contains documentation for the Matrix. 
+Even the Matrix has documentation.
+
+If you can't find what you're looking for ask us on the [XMPP channel](/xmpp/) or tweet us [@matrix_ac](https://twitter.com/matrix_ac).
 
 <div class="home">
 {% for cat in site.zion-list %}
