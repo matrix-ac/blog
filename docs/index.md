@@ -17,12 +17,12 @@ If you can't find what you're looking for ask us on the [XMPP channel](/xmpp/) o
       {% for pc in page.categories %}
         {% if pc == cat %}
           <li>
-          <h3><a  href="{{ page.url }}">{{ page.title }}</a></h3>
+          <h3><a href="{{ page.url }}">{{ page.title }}</a></h3>
           </li>
-        {% endif %}   <!-- cat-match-p -->
-      {% endfor %}  <!-- page-category -->
-    {% endif %}   <!-- resource-p -->
-  {% endfor %}  <!-- page -->
+        {% endif %}
+      {% endfor %}
+    {% endif %} 
+  {% endfor %}  
 </ul>
-{% endfor %}  <!-- cat -->
+{% endfor %}  
 </div>
