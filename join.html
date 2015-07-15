@@ -21,8 +21,7 @@ permalink: /join/
     <input type="submit" value="Submit">
 </form>
 
-<h2>Command Line Alternative</h2>
 <p>You can also use curl to register your account.</p>
-<p>curl 'http://matrix.ac/registration/join' --data 'username=anewosaka&amp;email=osaka%40domain.ac.uk&amp;pubkey=ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCr2aZIzhTCdW/EMHBqiZhX0gguK46P3eobO+6vqMoRoIo5Hb1kWJaNNnD0wE2oODh61QTG5pibI+gAIWRNPAZxP9+Wqt8S8MTD1DtEswdgDYx3ZqatcCLgMeFQ3ujQiWYBj1NEP2d0VWHZGitkQJi5txLWxAgvI0C4iWKvURRDV9H+RTCZnGq6GzrfWKO8jVs53IAPUTr2Dg5JaQvLfVIjgxxnySea/EtEnDF9ezbWhELNkjXBYo5+i8PN/UHeE+/jIvEvV6J1uCnVblDeD437jinBpkuEXsq5Wu4Uy6mMHnc4V9eW84xwF78qfb1wC2+o4HpP0ByZK5+dDYbJAAlf'</p>
+<pre><curl 'http://matrix.ac/registration/join' --data 'username=anewosaka&amp;email=osaka%40domain.ac.uk&amp;pubkey=ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCr2aZIzhTCdW/EMHBqiZhX0gguK46P3eobO+6vqMoRoIo5Hb1kWJaNNnD0wE2oODh61QTG5pibI+gAIWRNPAZxP9+Wqt8S8MTD1DtEswdgDYx3ZqatcCLgMeFQ3ujQiWYBj1NEP2d0VWHZGitkQJi5txLWxAgvI0C4iWKvURRDV9H+RTCZnGq6GzrfWKO8jVs53IAPUTr2Dg5JaQvLfVIjgxxnySea/EtEnDF9ezbWhELNkjXBYo5+i8PN/UHeE+/jIvEvV6J1uCnVblDeD437jinBpkuEXsq5Wu4Uy6mMHnc4V9eW84xwF78qfb1wC2+o4HpP0ByZK5+dDYbJAAlf'</pre>
 <p>Then once you receive your email you can activate your account by sending a GET request to registration/activate</p>
-<p>curl 'http://matrix.ac/registration/activate/8319b3ff51f340c2ebe222d37498d5ab301e91444b578f6226'</p>
+<pre>curl 'http://matrix.ac/registration/activate/8319b3ff51f340c2ebe222d37498d5ab301e91444b578f6226'</pre>
