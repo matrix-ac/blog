@@ -8,8 +8,9 @@ layout: page
 ### Features
 - Unique registration system
 - SSH Access
-- XMPP Server (username@matrix.ac)
+- Federated XMPP (username@matrix.ac)
 - User space web hosting
+- Access services over Tor
 
 ### Connection Information
 
@@ -36,4 +37,3 @@ Once your account is activated you will have access via ssh.
 
     ssh username@matrix.ac
 
-    

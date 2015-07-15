@@ -145,7 +145,7 @@ pre {
   margin-left: 0;
   list-style: none; }
   .post-list > li {
-    margin-bottom: 30px; }
+    margin-bottom: 15px; }
 
 .post-meta {
   font-size: 14px;
@@ -157,7 +157,9 @@ pre {
 
 .rss-subscribe {}
 
-
+.body-text-header {
+  color: #828282;
+}
 /**
  * Syntax highlighting styles
  */
@@ -350,4 +352,39 @@ pre {
   50% {
     color: #109810;
   }
+}
+
+
+.footer-list {
+  margin-left: 5px;
+  list-style: none; }
+  .footer-list > li {
+    font-size: 15px;
+    margin-bottom: 10px; }
+
+
+footer {
+  border-top: 5px solid #109810;
+  min-width: 300px;
+  max-width: 960px;
+  margin: 0 auto;
+  padding-top: 10px;
+  width:100%;
+  min-height:100px; }
+
+.column {
+  width:30.5%;
+  float:left;
+  min-height: 250px;
+  margin:0 10px; }
+  .column > h1 {
+    font-size: 20px;
+  }
+
+#meta-links {
+  width:100%;
+  float:left;   
+  height:20px;
+  text-align: center;
+  margin-bottom: 5px;
 }

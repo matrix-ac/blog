@@ -9,13 +9,13 @@ twitter_username: matrix_ac
 github_username:  matrix-ac
 
 nav:
-- page: Join Us
+- page: join us
   permalink: /join
 
-- page: Zion Archive
+- page: zion archive
   permalink: /zion-archive
 
-- page: Blog
+- page: blog
   permalink: /blog
 
 zion-list: [Chat, Web Publishing, Command Line]

@@ -3,7 +3,7 @@ layout: page
 title: IRC 
 permalink: /irc/
 resource: true
-published: false
+published: true
 categories:
 - Chat
 ---
