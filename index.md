@@ -6,15 +6,14 @@ layout: page
 {{ site.description }}
 
 ### Features
-- Unique registration system
+- Privacy conscious
 - SSH Access
-- Federated XMPP (username@matrix.ac)
+- Federated XMPP Access (*username@matrix.ac*)
 - User space web hosting
+- e-mail account (*username@matrix.ac*) 
 - Access services over Tor
 
-### Connection Information
-
-#### Account Registration
+### Account Registration
 
 Register [here](join). To register you will need to use your university email address. 
 
@@ -25,5 +24,6 @@ You will also need to provide us with your public SSH key in order to access the
 
 Once your account is activated you will be able to access your matrix.ac shell account via:
 
-    ssh username@matrix.ac
+> ssh username@matrix.ac
 
+Make sure to check out our [documentation](docs) to take advantage of our features.
