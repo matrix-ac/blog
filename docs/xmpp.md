@@ -15,7 +15,7 @@ XMPP, also known as jabber, is an instant messaging protocol.
 
 Use your matrix.ac username and password to access the server.
 
-We have a multi user channel located at ```bios@conference@matrix.ac```.  
+We have a multi user channel located at ```bios@conference.matrix.ac```.  
 Come and join the coversation.
 
 There are an array of clients available for many platforms. Some of our favorites are:
