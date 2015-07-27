@@ -7,9 +7,9 @@ categories:
 - Command Line
 ---
 
-Secure Shell (SSH) allows you to run commands on a remote computer securely, nearly all Linux distributions come packaged with an SSH client. SSH uses public key cryptography to authentic the user with the server. This means that you will need to generate a key pair, one public and one private. (You can also use passwords, but these are less secure.)
+Secure Shell (SSH) allows you to run commands on a remote computer securely and nearly all Linux distributions come packaged with an SSH client. SSH uses public key cryptography to authenticate the user with the server. This means that you will need to generate a key pair, one public and one private. You can also use passwords, but these are less secure.
 
-The private key is stored on your machine and should never be lost or given to another person, the private key is what gives you access to the server and what identifies you as you. The public key is used for the server to verify that you are who you claim to be. You need to give us your public key so that the server can verify you.
+The private key is stored on your machine and should never be lost or given to another person as the private key is what gives you access to the server and what identifies you as you. The public key is used for the server to verify that you are who you claim to be. You need to give us your public key so that the server can verify you.
 
 ## Generate Keypair
 
@@ -96,7 +96,7 @@ Now you can use the command ```ssh matrix``` to connect.
 
 ## SSH-Agent
 
-If you have set a long passphrase and do not wish to keep entering it every time you want to connect to the server, you can use SSH-Agent to store your passphrase whilst you are logged in on your computer. 
+If you have set a long passphrase and do not wish to keep entering it every time you want to connect to the server, you can use SSH-Agent to store your passphrase while you are logged in on your computer. 
 
 Start the ssh-agent in the background:
 
@@ -110,5 +110,5 @@ And add your key to the ssh-agent, you will be prompted to enter your passphrase
 	# Identity added: /home/osaka/.ssh/matrix.ac (/home/osaka/.ssh/matrix.ac)
 
 
-Done. Now connect with ```ssh matrix``` and you should not have to enter your passphrase. You can extend this by using programs like gnome-keyring/seahourse, keychain and other key managers.
+Done. Now connect with ```ssh matrix``` and you should not have to enter your passphrase. You can extend this by using programs like gnome-keyring/seahorse, keychain and other key managers.
 
