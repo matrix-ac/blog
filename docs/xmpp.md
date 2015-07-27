@@ -1,7 +1,7 @@
 ---
 layout: page
 title: XMPP Connection Details
-permalink: /xmpp/
+permalink: /docs/xmpp/
 resource: true
 categories:
 - Chat

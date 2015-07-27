@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How to connect with SSH (Linux)
-permalink: /ssh-linux/
+permalink: /docs/ssh-linux/
 resource: true
 categories:
 - Command Line
