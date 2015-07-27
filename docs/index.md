@@ -6,7 +6,7 @@ permalink: /docs/
 
 Even the Matrix has documentation.
 
-If you can't find what you're looking for ask us on the [XMPP channel](/xmpp/) or tweet us [@matrix_ac](https://twitter.com/matrix_ac).
+If you can't find what you're looking for ask us on the [XMPP channel](/docs/xmpp/) or tweet us [@matrix_ac](https://twitter.com/matrix_ac).
 
 <div class="home">
 {% for cat in site.zion-list %}
