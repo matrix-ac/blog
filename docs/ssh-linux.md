@@ -51,7 +51,7 @@ Make sure you have activated your account, via the email link, and you should be
 
 	ssh osaka@matrix.ac -i ~/.ssh/matrix.ac
 
-When you first connect you will be asked to check the fingerprint of the server. What this means is that are you sure this is the matrix server. So check the fingerprint you see with the one below and if they match that's good news, go a head and types yes.
+When you first connect you will be asked to check the fingerprint of the server. Each server has a unique fingerprint which is used to make sure you're connected to the right place. So check the fingerprint you see with the one below and if they match that's good news, go ahead and type yes.
 
 	The authenticity of host 'matrix.ac (178.62.58.156)' can't be established.
 	ECDSA key fingerprint is 73:a5:14:b0:ec:dd:2d:50:fa:c0:df:8b:5f:20:0f:0c.
