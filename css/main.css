@@ -121,21 +121,20 @@ blockquote {
 pre,
 code {
   font-size: 15px;
-  border: 1px solid #109810;
+  border: 1px solid #2C332C;
   border-radius: 3px;
-  background-color: black; }
+  background-color: #2C2C2C; }
 
 code {
   padding: 1px 5px; }
 
 pre {
   padding: 8px 12px;
-  overflow-x: scroll; }
+  overflow: auto; }
   pre > code {
     border: 0;
     padding-right: 0;
     padding-left: 0; }
-
 
 /**
 * Posts
