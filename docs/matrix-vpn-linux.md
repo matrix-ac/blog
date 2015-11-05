@@ -14,7 +14,7 @@ Download your OpenVPN Configuration File
 
 The first thing to do is download the OpenVPN connection profile. It will have an .ovpn file extension and will typically have your username as the filename. You can download this using the following scp command:
 
-	scp matrix.ac:username.ovpn .
+	scp username@matrix.ac:username.ovpn .
 
 which will download the profile to your current working directory. 
 
