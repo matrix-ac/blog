@@ -4,7 +4,7 @@ title: Image Gallery using Sigal
 permalink: /docs/image-gallery-sigal/
 resource: true
 categories:
-- Command Line
+- Web Publishing 
 ---
 
 ## How to Use 
