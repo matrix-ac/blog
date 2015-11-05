@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Changes to XMPP and SSL"
-date:   2015-11-04 12:13:01
+date:   2015-11-05 12:13:01
 categories: server
 ---
 **TL;DR** Site now has SSL certificate; XMPP moved from port 443 to 993;
