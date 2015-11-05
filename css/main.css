@@ -48,6 +48,11 @@ dl, dd, ol, ul, figure {
     margin: 0 auto;
 }
 
+dd {
+    margin-left: 10px;
+    /* border-left: 2px solid purple; */
+    padding-left: 5px;
+}
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
