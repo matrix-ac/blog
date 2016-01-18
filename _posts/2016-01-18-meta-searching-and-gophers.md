@@ -7,7 +7,7 @@ categories: server
 **TL;DR** Searx instance and gopher service. 
 
 # Meta Searching
-For the past few months we have been trailing a Searx instance. Searx is a meatasearch engine, which aggregates the results of other search engines without storing any private information,
+For the past few months we have been trialing a Searx instance. Searx is a meatasearch engine, which aggregates the results of other search engines without storing any private information,
 
 You can access it: <https://matrix.ac/searx> checkout the [about page](/searx/about) which will answer some of your questions.
 
