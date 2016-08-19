@@ -4,7 +4,7 @@ title: GIT Hosting
 permalink: /docs/git-hosting/
 resource: true
 categories:
-- Git
+- Web Publishing
 ---
 
 Head over to <https://git.matrix.ac> and you will see a list of repositories stored on the matrix. 
