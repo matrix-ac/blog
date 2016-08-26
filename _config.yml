@@ -18,7 +18,7 @@ nav:
 - page: blog
   permalink: /blog
 
-zion-list: [Chat, Web Publishing, Command Line, VPN]
+docs-list: [Chat, Web Publishing, Command Line, VPN]
 
 # Build settings
 markdown: kramdown
