@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How to connect with SSH (Linux)
+title: Linux SSH Guide 
 permalink: /docs/ssh-linux/
 resource: true
 categories:

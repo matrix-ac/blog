@@ -10,7 +10,7 @@ categories:
 XMPP, also known as jabber, is an instant messaging protocol. 
 
 - **Server** matrix.ac
-- **Port** 443, 5222 
+- **Port** 993, 5222 
 - SSL only
 
 Use your matrix.ac username and password to access the server.
