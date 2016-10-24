@@ -5,7 +5,7 @@ date:   2016-10-24
 categories: server
 ---
 
-We have shut down our VPN service affect immediately.
+We have shut down our VPN service affective immediately.
 
 We will resume the service in the not so distant future, once two things happen: 
 
