@@ -9,8 +9,8 @@ twitter_username: matrix_ac
 github_username:  matrix-ac
 
 nav:
-- page: join
-  permalink: /join
+# - page: join
+#   permalink: /join
 
 - page: docs
   permalink: /docs

@@ -8,14 +8,14 @@ layout: page
 ### Features
 - Privacy conscious
 - SSH Access
-- Federated XMPP Access (*username@matrix.ac*)
+- Federated XMPP Access
+- Matrix Home Server
 - User space web hosting
-- e-mail account (*username@matrix.ac*) 
-- Access services over Tor
+- Git repository hosting
 
 ### Account Registration
 
-Register [here](join). To register you will need to use your university email address. 
+Make contact with us and we shall give you shell access.  
 
 You will also need to provide us with your public SSH key in order to access the matrix.ac server securely.
 
