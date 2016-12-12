@@ -7,11 +7,11 @@ layout: page
 
 ### Features
 - Privacy conscious
-- SSH Access
-- Federated XMPP Access
-- Matrix Home Server
-- User space web hosting
-- Git repository hosting
+- [SSH Access](https://matrix.ac/docs/ssh-linux/)
+- [Federated XMPP Access](https://matrix.ac/docs/xmpp/)
+- [Matrix Home Server](https://matrix.ac/server/2016/12/12/Matrix-Online.html)
+- [User space web hosting](https://matrix.ac/docs/web-publishing/)
+- [Git repository hosting](https://matrix.ac/docs/git-hosting/)
 
 ### Account Registration
 
