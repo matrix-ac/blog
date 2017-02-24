@@ -48,6 +48,10 @@ dl, dd, ol, ul, figure {
     margin: 0 auto;
 }
 
+.text-container h1,h2,h3,h4,h5,h6 {
+   color: #109810; 
+}
+
 dd {
     margin-left: 10px;
     /* border-left: 2px solid purple; */
